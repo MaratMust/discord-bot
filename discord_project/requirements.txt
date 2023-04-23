@@ -1,2 +1,0 @@
-SQLAlchemy==2.0.4
-discord==2.2.2
